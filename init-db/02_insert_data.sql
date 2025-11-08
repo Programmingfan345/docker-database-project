@@ -11,4 +11,11 @@ INSERT INTO users (full_name, email, password, role) VALUES
 
 
 
+INSERT INTO bus_stops (stop_name, location_description, latitude, longitude) VALUES
+('Walker Apartments', 'entrance to Walker Avenue Apartments', 39.258718, -76.714887),
+(),
+(),
+(),
+(),
+
 
