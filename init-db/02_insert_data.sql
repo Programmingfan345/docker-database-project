@@ -19,5 +19,7 @@ INSERT INTO bus_stops (stop_name, location_description, latitude, longitude) VAL
 ('Retriever Activities Center', 'Next to admin building',  39.252405, -76.712003);
 
 
+INSERT INTO buses (bus_id, bus_number, capacity, active) VALUES
+
 
 
