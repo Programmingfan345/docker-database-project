@@ -19,3 +19,4 @@ INSERT INTO bus_stops (stop_name, location_description, latitude, longitude) VAL
 (),
 
 
+
