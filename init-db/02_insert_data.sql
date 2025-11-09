@@ -13,10 +13,11 @@ INSERT INTO users (full_name, email, password, role) VALUES
 
 INSERT INTO bus_stops (stop_name, location_description, latitude, longitude) VALUES
 ('Walker Apartments', 'entrance to Walker Avenue Apartments', 39.258718, -76.714887),
-(),
-(),
-(),
-(),
+('Library', 'road behind library', 39.256561, -76.711511),
+('Patapsco Hall', 'Intersection next to Patapsco Hall', 39.255121, -76.707364),
+('Performing Arts & Humanities', 'Top of the hill of UMBC', 39.251373,-76.712127),
+('Retriever Activities Center', 'Next to admin building',  39.252405, -76.712003);
+
 
 
 
