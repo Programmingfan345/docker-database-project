@@ -20,6 +20,16 @@ INSERT INTO bus_stops (stop_name, location_description, latitude, longitude) VAL
 
 
 INSERT INTO buses (bus_id, bus_number, capacity, active) VALUES
+(1, 'BUS-101', 40, TRUE),
+(2, 'BUS-102', 23, TRUE),
+(3, 'BUS-103', 52, FALSE),
+(4, 'BUS-104', 40, TRUE),
+(5, 'BUS-105', 52, TRUE),
+(6, 'BUS-106', 23, TRUE),
+(7, 'BUS-107', 52, TRUE),
+(8, 'BUS-108', 40, FALSE),
+(9, 'BUS-109', 23, TRUE),
+(10, 'BUS-110', 52, TRUE);
 
 
 
